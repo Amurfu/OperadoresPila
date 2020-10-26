@@ -36,7 +36,6 @@ public class Calculador {
             }
         }
         System.out.println("Expresion: " + exprecion);
-        System.out.println("Resultado: " + P.peek());
         return P.peek();
     }
 
